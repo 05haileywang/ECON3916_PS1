@@ -1,1 +1,6 @@
 # ECON3916_PS1
+Hello Director,
+
+Based on the findings in this lab, I can conclude that the consumer basket that I created experienced a price increase of 29.3 percent from 2019 to 2024. I have high confidence in the mathematical outcomes from the model. Reweighting the model using the Laspeyres index did not actually change the index. This demonstrate that the prices changes are close together and are not easily swayed from reweighting based on the categories according to their share of total spending. Utilities and childcare were the most sensitive to changes, as they swung 2.34 and 2.26 index points respectively. Mortgage was correlated with half of the total spend for this household, yet the index only changed 0.09 points. This demonstrate that its inflation is similar to the rest of the basket. Moving any individual category's weight from 0 to 50 percent did not change the index greatly. It remained between 127.3 and 131.1.
+
+To better understand the findings in the index and the inflation, I would recommend that you re verify the share of total spending that utilities and child care has in this basket. This is because they are the most sensitive categories and can change the basket greatly if they are inaccurate. 
